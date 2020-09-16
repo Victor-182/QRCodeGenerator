@@ -1,0 +1,32 @@
+#botoes {
+    margin-left: 8%;
+}
+
+button {
+    background: #0e1111;
+    color: #fff;
+    height: 48px;
+    min-width: 120px;
+    line-height: 1rem;
+    font-size: 1rem;
+    margin-top: 8%;
+    margin-right: 2%;
+    overflow: hidden;
+    clear:both;
+}
+
+ul{
+    list-style-type: none;
+    display:none;
+}
+
+ul li{
+    padding: 10px;
+}
+
+a {
+    text-decoration:none;
+    background-color: black;
+    color:white;
+    padding:10px 32px;
+}

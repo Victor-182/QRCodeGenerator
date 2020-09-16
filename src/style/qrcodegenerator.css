@@ -1,0 +1,25 @@
+input{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    font-size: 1.2rem;
+	margin: 0 auto;
+    padding: 1.5rem 2rem;
+    border-radius: 0.2rem;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    width: 90%;
+    vertical-align: middle;
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    top: 0%;
+    transform: translate(-50%, -150%);
+}
+
+#qrCodePlaceholder :first-child {
+    border: 2px solid;
+    padding: 10px;
+    display: flex;
+}
+
